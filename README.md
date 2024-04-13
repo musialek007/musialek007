@@ -1,5 +1,7 @@
-👋 Hi, I’m @musialek007👀 I’m interested in sports, gastronomy, computer games and programming 
+👋 Hi, I’m @musialek007👀 I’m interested in sports, gastronomy, computer games and programming
+
 🌱 Currently I am learning programming, I have mastered programming languages such as: C#, C++, HTML, CSS, JS, PHP. Although I am still training my skills. 
+
 📫 How to reach me email: musialdawid21@gmail.com
 
 <!---
